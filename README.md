@@ -1,14 +1,14 @@
-# TWC TEST PROJECT
+## TWC Intern Assignment
 
 Hello, 
 As discussed on our video chat, your next step will be to complete a task to test your knowledge of design, analytics, React and basics of a Rest api.
 Your task will be to build a very basic full stack system. The initial screen will be a login page. Once the user signs in, they will be greeted with a welcome message and a button to add a “contact”. Once this button is clicked a form has to be filled to add a “contact”. A list of all “contacts” must be shown in a table along with the ability to edit and delete them. 
 
+---
 
+## Your challenge - TWC CONTACTS PORTAL APP
 
-## Your challenge
-
-![sdf](assets/f64742b1c0b4b77f6f360a23e4c155c3dcafc170.png)
+![](assets/2023-02-01-18-33-24-Login.png)
 
 Your challenge is to build out these UIs and get it looking as close to the design as possible.
 
@@ -42,14 +42,12 @@ contacts/new - add new contact page
 
 /contacts  - show all contacts page
 
-
+---
 
 ## Submitting your project
 
 - Create a public github repo with the name `twc-test-web` for the React App and  `twc-test-api` for the Node API and push your code.
 
 share your public github repositories before the end of the deadline
-
-
 
 <div align="center" style="font-size:10rem" > <b> <h1> Have fun building! 🚀 </h1> </b> </div>
