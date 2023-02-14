@@ -48,6 +48,6 @@ contacts/new - add new contact page
 
 - Create a public github repo with the name `twc-test-web` for the React App and  `twc-test-api` for the Node API and push your code.
 
-share your public github repositories before the end of the deadline
+share your public github repositories and login credentials  before the end of the deadline
 
 <div align="center" style="font-size:10rem" > <b> <h1> Have fun building! 🚀 </h1> </b> </div>
