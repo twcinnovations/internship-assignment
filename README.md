@@ -30,7 +30,7 @@ Your challenge is to build out these UIs and get it looking as close to the desi
 
 - Use mongodb for saving user info, contacts in a database    
 
-- You will be given 10 days to complete this task and you must strictly adhere to the UI design provided in the link below.
+- You will be given 7 days to complete this task and you must strictly adhere to the UI design provided in the link below.
 
 ## React app pages and their routes
 
