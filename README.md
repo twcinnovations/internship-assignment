@@ -28,7 +28,7 @@ Your challenge is to build out these UIs and get it looking as close to the desi
   
   - You need to use express.js or Nest.js for creating an api
 
-- You are free to use either a relational(mysql/postgres) or non relational database(mongodb).    
+- Use mongodb for saving user info, contacts in a database    
 
 - You will be given 10 days to complete this task and you must strictly adhere to the UI design provided in the link below.
 
