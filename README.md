@@ -12,6 +12,8 @@ Your task will be to build a very basic full stack system. The initial screen wi
 
 Your challenge is to build out these UIs and get it looking as close to the design as possible.
 
+- The design file - https://www.figma.com/file/4f8t98A25BOn8VmAvymWyF/Contacts-Portal---Intern?type=design&node-id=0%3A1&mode=design&t=HnIJJSl4OTwfHqpn-1
+
 - React.js must be used to build the UI components.
   
   - You need to use **NextJs** or **Vite** for creating a React App
